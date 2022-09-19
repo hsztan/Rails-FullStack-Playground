@@ -1,0 +1,7 @@
+secret_key: password
+
+production:
+  aws_key: 1234567890
+
+development:
+  aws_key: 0987654321
